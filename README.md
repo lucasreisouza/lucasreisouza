@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá, eu sou o Lucas Reis Souza 👋
 
-<!--
-**lucasreisouza/lucasreisouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack em formação | Técnico em Informática para Internet - SENAC Brazlândia (1000h)
+📍 Águas Lindas de Goiás - GO
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em Destaque
+- 📰 **[ByteNews](https://github.com/lucasreisouza/projeto-byte-news)** - Portal de notícias responsivo com HTML, CSS e JS
+- 💬 **[Frases Motivacionais](https://github.com/lucasreisouza/frases-motivacionais)** - Gerador aleatório em JavaScript
+- 💻 **[ByteNews 2.0](https://github.com/lucasreisouza/ByteNews-2.0)** - Versão estilizada em PHP
+
+### 📫 Contato
+- 📧 lulucasreisouza@gmail.com
+- 📱 (61) 9 9891-8446
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-reis-souza-0a0049387)
